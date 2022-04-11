@@ -4,8 +4,8 @@
  */
 
 var server_name = "XminerSMP";
-var server_ip = "play.xminersmp.tk";
-var server_port = 25528;
+var server_ip = "play.xminermc.xyz";
+var server_port = 30009;
 var ip_copied = "IP copied!";
 
 var firefly_count = 20;
